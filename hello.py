@@ -6,3 +6,5 @@ def hello(msg):
 	
 if_name_=="_main_":
 	hello("world")
+    hello("Alice")
+    hello("Bob")
